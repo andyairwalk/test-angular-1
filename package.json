@@ -1,0 +1,19 @@
+{
+  "name": "angular-test-1",
+  "version": "1.0.0",
+  "description": "test in angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyairwalk/test-angular-1.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyairwalk/test-angular-1/issues"
+  },
+  "homepage": "https://github.com/andyairwalk/test-angular-1#readme"
+}
