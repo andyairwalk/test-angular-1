@@ -1,0 +1,4 @@
+cd Documents/development/angular-test-1/
+node app.js
+
+go to http://localhost:3000/
